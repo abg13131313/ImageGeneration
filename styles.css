@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+#input-area {
+    margin-bottom: 20px;
+}
+#image-output {
+    margin-top: 20px;
+}
+#generate-button {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+#generate-button:hover {
+  background-color: #367c39;
+}
+input[type="text"] {
+    padding: 8px 12px;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
